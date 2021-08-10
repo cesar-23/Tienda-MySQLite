@@ -61,5 +61,5 @@ _Imagenes del funcionamiento del sistema_
 
 * **César Gonzalo Carpio Paiva** 
 * **Jesus Alonso Vilca Samanez**
-
+* **Juan Carlos Castro Barreda**
 
