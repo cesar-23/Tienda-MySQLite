@@ -2,9 +2,9 @@
 
 _Proyecto realizado para hacer un inventario virtual mediante el uso de los dispositivos moviles con MySQLite y Android studio_
 
-## Desarrolladores 🚀
+## Perspectiva 🚀
 
-_Los desarrolladores fueron: César Gonzalo Carpio Paiva y Jesus Alonso Vilca Samanez, ambos estudiantes de la prestiguiosa universidad nacional de San Agustín_
+_Los desarrolladores realizaron el presente proyecto con la intencion de poner a prueba su manejo de base de datos y sus habilidades en Android studio, tambien el aplicativo cumple una función utíl la cual es ser una agenda virutal que actua de almacen de diferentes objetos_
 
 
 ### Pre-requisitos 📋
